@@ -5,14 +5,14 @@ The Stock Span is a classic problem where for each price, we find how many conse
 
 ---
 
-## 🧠 What is Stock Span?
+##  What is Stock Span?
 
 The **Stock Span Problem** is:
 > Given an array of stock prices, for each day, find the number of consecutive days before it (including the current day) for which the price was less than or equal to the current price.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📊 Menu-driven interface
 - 🧮 Calculates stock span for an array of prices
@@ -22,7 +22,7 @@ The **Stock Span Problem** is:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language:** Java (Core)
 - **Concepts:** Data Structures (Stack), OOP, CLI I/O
@@ -30,7 +30,7 @@ The **Stock Span Problem** is:
 
 ---
 
-## 🔄 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
@@ -44,6 +44,7 @@ The **Stock Span Problem** is:
    java Main
 
 4. Screenshots:
+   
    ![image](https://github.com/user-attachments/assets/1b09d594-e28e-4fb0-b2ad-3ff8b371460a)
    ![image](https://github.com/user-attachments/assets/0e7a7176-7776-4951-83df-fd250be3ea4c)
 
