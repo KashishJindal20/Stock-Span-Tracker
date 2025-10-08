@@ -5,7 +5,7 @@ The Stock Span is a classic problem where for each price, we find how many conse
 
 ---
 
-##  What is Stock Span?
+##  What is Stock Span??
 
 The **Stock Span Problem** is:
 > Given an array of stock prices, for each day, find the number of consecutive days before it (including the current day) for which the price was less than or equal to the current price.
